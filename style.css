@@ -1,0 +1,109 @@
+body {
+	margin: 0;
+	min-height: 100vh;
+	color: white;
+	font-family: "Segoe UI Light", Arial;
+	background-image: url(imgs/backgroundAlternate1.svg);
+	background-repeat: no-repeat;
+	background-position: top;
+	background-size: cover;
+	height: 100%;
+	width: 100%;
+}
+
+}
+.container {
+	margin-left: auto;
+	margin-right-auto;
+	padding-left: 1rem;
+	padding-right: 1rem:
+}
+.centeredtext {
+	margin-top: 15px;
+	text-align: center;
+}
+.MainWindow {
+	position:relative;
+	display: flex;
+	justify-content: center;
+	padding-bottom: 110px;
+}
+.WindowText {
+	position:absolute;
+	top: 15px;
+	transform: translateX(0.5%);
+	max-width:95ch;
+	line-height: 1.6;
+	z-index:101;
+}
+.SideBar {
+	margin-top: 25px;
+	z-index:100;
+	position:absolute;
+	right: 100%;
+	top:0;
+	transform: translateX(40%);
+}
+.AboutButton {
+	margin-top: -900px;
+	position: absolute;
+	z-index:101
+}
+.BlogButton {
+	margin-top: -760px;
+	position: absolute;
+	z-index:101
+}
+.TechButton {
+	margin-top: -610px;
+	position: absolute;
+	z-index:101
+}
+.MusicButton {
+	margin-top: -460px;
+	position: absolute;
+	z-index:101
+}
+.Dock {
+	position: fixed;
+	z-index: 199;
+	bottom: 0;
+	left: 50%;
+	transform: translateX(-50%);
+}
+.LinkedInHitBox {
+	opacity: 0;
+	z-index: 200;
+	position: fixed;
+	bottom: 25px;
+	left: 152px;
+}
+.BlueskyHitBox {
+	opacity: 0;
+	z-index: 200;
+	position: fixed;
+	bottom: 25px;
+	left: 570px;
+}
+.InstagramHitBox {
+	opacity: 0;
+	z-index: 200;
+	position: fixed;
+	bottom: 25px;
+	left: 365px;
+}
+.eyePod {
+	margin-top: 25px;
+	z-index=50;
+	position: absolute;
+	left: 100%;
+	top: 0;
+	transform: translateX(-99%);
+}
+.spotifyEmbed {
+	margin-top:47px;
+	position: absolute;
+	left: 100%;
+	top: 0;
+	transform: translateX(-104.5%);
+}

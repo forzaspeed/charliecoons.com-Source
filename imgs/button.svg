@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="39.010677mm"
+   height="26.390711mm"
+   viewBox="0 0 27.86477 18.850507"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="button.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ab00e3"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="4.1763188"
+     inkscape:cx="78.657788"
+     inkscape:cy="68.122194"
+     inkscape:window-width="1440"
+     inkscape:window-height="829"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showgrid="false" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient70"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#a7a7a7;stop-opacity:0.74545456;"
+         offset="0"
+         id="stop70" />
+      <stop
+         style="stop-color:#636363;stop-opacity:0.39698493;"
+         offset="1"
+         id="stop71" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient68"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#000000;stop-opacity:0.83919597;"
+         offset="0"
+         id="stop68" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop69" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient68"
+       id="linearGradient69"
+       x1="31.694195"
+       y1="7.7328253"
+       x2="278.92712"
+       y2="7.7328248"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.19952177,0,0,1.1276612,1.1087649,-0.53765289)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient70"
+       id="linearGradient71"
+       x1="1.2318907"
+       y1="9.8831053"
+       x2="94.051384"
+       y2="9.1228666"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.19952177,0,0,1.1276612,1.1087649,-0.53765289)" />
+    <filter
+       inkscape:menu-tooltip="In and out glow with a possible offset and colorizable flood"
+       inkscape:menu="Shadows and Glows"
+       inkscape:label="Cutout Glow"
+       style="color-interpolation-filters:sRGB;"
+       id="filter8"
+       x="-0.27399052"
+       y="-0.40903546"
+       width="1.6578584"
+       height="1.9821049">
+      <feOffset
+         dy="3"
+         dx="3"
+         id="feOffset8" />
+      <feGaussianBlur
+         stdDeviation="3"
+         result="blur"
+         id="feGaussianBlur8" />
+      <feFlood
+         flood-color="rgb(0,0,0)"
+         flood-opacity="1"
+         result="flood"
+         id="feFlood8" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite"
+         id="feComposite8" />
+      <feBlend
+         in="blur"
+         in2="composite"
+         mode="normal"
+         id="feBlend8" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-1.1818883,-1.1818883)">
+    <rect
+       style="fill:url(#linearGradient71);fill-opacity:0.745455;stroke:url(#linearGradient69);stroke-width:0.561613;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.28;paint-order:stroke markers fill;filter:url(#filter8)"
+       id="rect1"
+       width="27.303158"
+       height="18.288895"
+       x="1.4626948"
+       y="1.4626948" />
+  </g>
+</svg>

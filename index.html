@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="style.css">
+</head>
+<style>
+p {
+	text-indent: 20px;
+}
+</style>
+<div class="container">
+<div class="centeredtext">
+	<p id="randomText" style="font-size:40px;"><p>
+	<script>
+	const messageArray=["Charlie Coons's Little Toybox",
+"Charlie Coons's Saucerful of Secrets",
+"Charlie Coons's Information Superhighway",
+"Charlie Coons's failed experiment",
+"Charlie Coons is bad at JavaScript",
+"Sarah Emmendorfer says hi"];
+	const randIndex = Math.floor(Math.random()*messageArray.length);
+	const randText = messageArray[randIndex];
+	document.getElementById("randomText").innerHTML = randText;
+	</script>
+</div>
+<div class="MainWindow">
+	<img src="imgs/Main Text.svg" alt="Main Window">
+	<div class="WindowText">
+	<p style="text-align: center; font-size:40px;"> About Me<p>
+	<p style="font-size:18px;"> My name is Charlie Coons! I am a Computer Science student with specific interests in low level programming and security research. I am currently working towards a Bachelor's in Computer Science with a minor in Cyber Security at the University of Tennessee Knoxville. I have also maintained a lifelong interest in community service and outreach. Achieved Eagle Scout in April of 2024, after leading a project to remodel a communal area used by both Room in the Inn and Alcoholics Anonymous. I am also passionate about music, having played Guitar, Trumpet, and Piano at school and in local music projects.<p>
+	<p style="font-size:18px;"> I am always eager to connect with people who want to work with me, or just talk about a shared interest. You are welcome to message me on my LinkedIn or Instagram linked below (I do not check my BlueSky direct messages as frequently) or through my email address, jccspeedworks@gmail.com.
+	<p style="font-size:18px;"> If you want to work with me professionally, I am always open to discussing terms for contractual work. I am mostly focusing on school and finding internship work currently, but if the job is right I will work with you to meet your needs. <p>
+	<p style="text-align: center; font-size:30px;"> Whatever you're here for, have fun, and I'm glad you stopped by! <p>
+	</div>
+</div>
+<div class="Dock">
+	<img src="imgs/Dock.svg" alt="Dock">
+<div class="LinkedInHitBox">
+	<a href="https://www.linkedin.com/in/charlie-coons-262025226/" >
+	<button style="width:67px;height:67px;">My LinkedIn</button>
+	</a>
+
+</div>
+<div class="InstagramHitBox">
+	<a href="https://www.instagram.com/charliecoons25/" >
+	<button style="width:67px;height:67px;">My Instagram</button>
+	</a>
+
+</div>
+<div class="BlueskyHitBox">
+	<a href="https://bsky.social" >
+	<button style="width:67px;height:67px;">My Bluesky</button>
+	</a>
+
+</div>
+</div>
+<div class="SideBar">
+	<img src="imgs/MessageBoard.svg" alt="Messsage Board">
+</div>
+<div class="AboutButton">
+	<a href="about/about.html">
+	<img src="imgs/buttons/About.svg" alt="About">
+	</a>
+</div>
+<div class="BlogButton">
+	<img src="imgs/buttons/Blog.svg" alt="Blog">
+</div>
+<div class="TechButton">
+	<a href="tech/tech.html">
+	<img src="imgs/buttons/Tech.svg" alt="Tech">
+	</a>
+</div>
+<div class="MusicButton">
+	<img src="imgs/buttons/Music.svg" alt="Music">
+</div>
+<div class="eyePod">
+	<img src="imgs/MusicPlayer.svg" alt="Music Player">
+</div>
+<div class="spotifyEmbed">
+	<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0dZLTxbaiGYOYIEv9eqePP?utm_source=generator" width=230px height=200px frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div>
+</div>
+</html>

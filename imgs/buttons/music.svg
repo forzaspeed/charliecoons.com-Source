@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="39.010677mm"
+   height="26.390711mm"
+   viewBox="0 0 27.86477 18.850507"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="music.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.7833615"
+     inkscape:cx="73.113033"
+     inkscape:cy="46.346836"
+     inkscape:window-width="1440"
+     inkscape:window-height="830"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1"
+     showgrid="false" />
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="perspective-envelope"
+       up_left_point="10.345482,3.2182424"
+       up_right_point="15.572126,3.1503639"
+       down_left_point="12.698603,11.929313"
+       down_right_point="19.350695,10.390734"
+       id="path-effect3"
+       is_visible="true"
+       lpeversion="1"
+       deform_type="perspective"
+       horizontal_mirror="false"
+       vertical_mirror="false"
+       overflow_perspective="false" />
+    <inkscape:path-effect
+       effect="perspective-envelope"
+       up_left_point="10.345482,3.2182424"
+       up_right_point="15.572126,3.1503639"
+       down_left_point="12.698603,11.929313"
+       down_right_point="19.350695,10.390734"
+       id="path-effect2"
+       is_visible="true"
+       lpeversion="1"
+       deform_type="perspective"
+       horizontal_mirror="false"
+       vertical_mirror="false"
+       overflow_perspective="false" />
+    <filter
+       inkscape:menu-tooltip="In and out glow with a possible offset and colorizable flood"
+       inkscape:menu="Shadows and Glows"
+       inkscape:label="Cutout Glow"
+       style="color-interpolation-filters:sRGB"
+       id="filter8"
+       x="-0.27399052"
+       y="-0.40903546"
+       width="1.6578584"
+       height="1.9821049">
+      <feOffset
+         dy="3"
+         dx="3"
+         id="feOffset8" />
+      <feGaussianBlur
+         stdDeviation="3"
+         result="blur"
+         id="feGaussianBlur8" />
+      <feFlood
+         flood-color="rgb(0,0,0)"
+         flood-opacity="1"
+         result="flood"
+         id="feFlood8" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite"
+         id="feComposite8" />
+      <feBlend
+         in="blur"
+         in2="composite"
+         mode="normal"
+         id="feBlend8" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-1.1818883,-1.1818883)" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.07143px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:0;opacity:0.4;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.20286;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+     x="4.7115688"
+     y="10.141848"
+     id="text1"
+     transform="matrix(0.64160035,0,0,0.64901955,-0.20125001,4.5537992)"><tspan
+       id="tspan1"
+       style="font-size:9.07143px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.20286;stroke-dasharray:none;stroke-opacity:1"
+       x="4.7115688"
+       y="10.141848">Music</tspan></text>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2" />
+  <path
+     style="opacity:0.4;fill:#000000;stroke:#000000;stroke-width:0.695;stroke-linecap:round;stroke-dasharray:none;paint-order:stroke markers fill"
+     d="M 25.252317,5.0219587 C 20.499129,6.3182829 20.499129,6.366295 20.499129,6.366295 L 25.10828,5.7421389 Z"
+     id="path14" />
+  <path
+     style="opacity:0.4;fill:#000000;stroke:#000000;stroke-width:1.09199;stroke-linecap:round;stroke-dasharray:none;paint-order:stroke markers fill"
+     d="m 24.880089,6.2136496 c 3.695984,11.9687584 -4.9493,4.2946134 0.766113,5.2070764 -0.32327,-1.6621348 -0.824996,-3.7247912 -0.766113,-5.2070764 z"
+     id="path17"
+     sodipodi:nodetypes="ccc" />
+  <path
+     style="opacity:0.4;fill:#000000;stroke:#000000;stroke-width:1.09199;stroke-linecap:round;stroke-dasharray:none;paint-order:stroke markers fill"
+     d="m 20.697042,6.7837922 c 3.95518,12.2279548 -4.9493,4.2946138 0.766113,5.2070758 -0.32327,-1.662134 -0.824996,-3.7247906 -0.766113,-5.2070758 z"
+     id="path18"
+     sodipodi:nodetypes="ccc" />
+</svg>
